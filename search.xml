@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title>web开发学习</title>
+    <url>/2021/10/17/fistblog/</url>
+    <content><![CDATA[<h1 id="作为前端开发的新手菜鸟的几句话"><a href="#作为前端开发的新手菜鸟的几句话" class="headerlink" title="作为前端开发的新手菜鸟的几句话"></a>作为前端开发的新手菜鸟的几句话</h1><p>  学习的过程，是吸收知识再到复述知识接着应用知识。持之以恒，加油！！！</p>
+<h2 id="Html5-Css3-JavaScript"><a href="#Html5-Css3-JavaScript" class="headerlink" title="Html5+Css3+JavaScript"></a>Html5+Css3+JavaScript</h2><p>前端设计由 <strong>Html5+Css3+JavaScript</strong> 这三部分构成，html相当于网页的身体，最主要的部分，css则是点缀的衣服，可以使你的网页更出彩，javascript更为重要，他可以使你的网页“活动”起来，使网页可以实现更多功能。</p>
+<h2 id="“Hello-world”"><a href="#“Hello-world”" class="headerlink" title="“Hello world”"></a>“Hello world”</h2><p>在学习各种语言的时候，万变不离其宗，hello world常常是我们入门写的第一个程序,代码如下：</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">&lt;!DOCTYPE html&gt;</span><br><span class="line">&lt;html&gt;</span><br><span class="line">	&lt;head&gt;</span><br><span class="line">	&lt;title&gt;第一个程序&lt;/title&gt;</span><br><span class="line">	&lt;/head&gt;</span><br><span class="line">	&lt;body&gt;</span><br><span class="line">	&lt;h1&gt;Hello world&lt;/h1&gt;</span><br><span class="line">	&lt;img src=&quot;C:\Users\86159\Desktop\前端设计\day0102/eg_tulip.jpg&quot; alt=&quot;FishC-LOGO&quot; width=&quot;256px&quot; hight=&quot;256px&quot; &gt;</span><br><span class="line">	&lt;/br&gt;</span><br><span class="line">	&lt;a href=&quot;https://www.w3school.com.cn/tags/tag_a.asp&quot; target=&quot;_blank&quot;&gt;学习中如果有不会的问题，查看html参考手册&lt;/a&gt;</span><br><span class="line">	&lt;p&gt;I love html&lt;/p&gt;</span><br><span class="line">	&lt;/body&gt;</span><br><span class="line">&lt;/html&gt;</span><br></pre></td></tr></table></figure>
+<p>网页效果如下：<br><img src="https://img-blog.csdnimg.cn/b5fd1d114c0c40ebab14b82d749eeff1.png?x-oss-process=image/watermark,type_ZHJvaWRzYW5zZmFsbGJhY2s,shadow_50,text_Q1NETiBAYTM5MjU0NDE1MQ==,size_20,color_FFFFFF,t_70,g_se,x_16" alt="在这里插入图片描述"></p>
+<h2 id="HTML语言"><a href="#HTML语言" class="headerlink" title="HTML语言"></a>HTML语言</h2><p>html语言是超文本标记语言，是一种标记语言，采用如下方式在 <code>&lt;html&gt;</code>标签中对语言进行声明，不像c语言，他有着他独特的个性（新手在写html程序需要注意的点）：<br>1.(第一行)需要声明文档类型html。</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">&lt;!DOCTYPE html&gt;</span><br></pre></td></tr></table></figure>
+<p>2.（第二行和最后一行）<code>&lt;html&gt;</code>与<code>&lt;/html&gt;</code>标签限定了文档的开始点和结束点，在它们之间是文档的头部和主体。<br><code>&lt;html&gt;&lt;/html&gt;</code><br>注意：在html中标签都是要有结束的，就是在前面加个/，也有例外如<code>&lt;img&gt;</code>不用加结束标签。<br>3.<code>&lt;html&gt;</code>中又由<code>&lt;head&gt;</code>和<code>&lt;body&gt;</code>组成。</p>
+<h2 id="HTML标签"><a href="#HTML标签" class="headerlink" title="HTML标签"></a>HTML标签</h2><p>在上面说了很多标签，至于他们的定义和用法，我不一一举例，也列举不完。如果想要知道对应标签的作用。在此推荐一个学习html语言网址： <a href="https://www.w3school.com.cn/tags/tag_head.asp">https://www.w3school.com.cn/tags/tag_head.asp</a><br>传输链接: <a href="https://www.w3school.com.cn/tags/tag_head.asp">link</a>.</p>
+<h2 id="结语"><a href="#结语" class="headerlink" title="结语"></a>结语</h2><p>书山有路勤为径，学海无涯苦作舟。</p>
+<p><img src="https://img-blog.csdnimg.cn/0dc03988aeab46aa8947d5489ed081ee.jpg?x-oss-process=image/watermark,type_ZHJvaWRzYW5zZmFsbGJhY2s,shadow_50,text_Q1NETiBAYTM5MjU0NDE1MQ==,size_9,color_FFFFFF,t_70,g_se,x_16#pic_center" alt="在这里插入图片描述"><br>ps：坚持分享学习心得！！</p>
+]]></content>
+      <categories>
+        <category>博客</category>
+      </categories>
+      <tags>
+        <tag>博客，github</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Hello World</title>
+    <url>/2021/10/21/hello-world/</url>
+    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
+<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
+<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
+<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
+<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
+]]></content>
+      <categories>
+        <category>博客</category>
+      </categories>
+      <tags>
+        <tag>博客，github</tag>
+      </tags>
+  </entry>
+</search>
